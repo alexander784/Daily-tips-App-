@@ -17,5 +17,13 @@ function displayTips(index) {
 
     }
     
-    
 }
+
+//add eventLister for a next button
+nextButton.addEventListener("click", () => {
+    currentTipIndex++;
+    if(currentTipIndex >= tips.length) {
+        currentTipIndex =0;
+    }
+    displayTips(currentTipIndex);
+});
