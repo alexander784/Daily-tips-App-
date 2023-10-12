@@ -1,3 +1,8 @@
+//reference from html
+const tipText = document.getElementById("tip-text");
+const nextButton = document.getElementById("next-button");
+
+
 //initialize index for current tip
 let currentTipIndex = 0;
 //create an empty array to store tips
