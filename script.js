@@ -19,7 +19,7 @@ function displayTips(index) {
     
 }
 
-//add eventLister for a next button
+//add eventLister to  next button
 nextButton.addEventListener("click", () => {
     currentTipIndex++;
     if(currentTipIndex >= tips.length) {
@@ -27,3 +27,14 @@ nextButton.addEventListener("click", () => {
     }
     displayTips(currentTipIndex);
 });
+
+//fetch data from Json
+fetch('db.json')
+      .then((response) => response.json())
+      .then((data) => {
+        tips = data.tips;
+        displayTip(currentTipIndex);
+      })
+      .catch((error) => {
+        console.error("Error fetching tips:", error);
+      });
