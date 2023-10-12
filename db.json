@@ -1,0 +1,21 @@
+{
+    "tips": [
+        {
+            "text": "Tip 1: Always stay hydrated!",
+            "backgroundImage": "https://images.unsplash.com/photo-1695338029970-16458268a24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzA3NzczNQ&ixlib=rb-4.0.3&q=80&w=1080"
+
+        },
+        {
+            "text": "Tip 2: Get enough sleep for a healthy lifestyle.",
+            "backgroundImage": "url_to_background_image_2.jpg"
+        },
+        {
+            "text": "Tip 3: Take breaks to reduce stress.",
+            "backgroundImage": "url_to_background_image_3.jpg"
+        },
+        {
+            "text":"Tip 4: Compare yourself to who you were yesterday not to someone else is today",
+            "backgroundImage":"https://images.unsplash.com/photo-1695338029970-16458268a24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzA3NzczNQ&ixlib=rb-4.0.3&q=80&w=1080"
+        }
+    ]
+}

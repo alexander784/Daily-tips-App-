@@ -34,7 +34,7 @@ nextButton.addEventListener("click", () => {
 });
 
 //fetch data from Json
-fetch('db.json')
+fetch("db.json")
       .then((response) => response.json())
       .then((data) => {
         tips = data.tips;
