@@ -26,8 +26,8 @@ This project contains the HTML, CSS and JavaScript code for Daily Tips.
  ## Installation
 
  To run this project locally:
- 1.Clone the repository using the: Git clone command
- 2.Navigate to the project directory "cd Project-name"
+ 1.Clone the repository using the: Git clone command. <br>
+ 2.Navigate to the project directory "cd Project-name"<br>
  3.Open the "Index.html" file in your favorite browser.
 
  ## Usage
