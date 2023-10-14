@@ -16,11 +16,15 @@ body{
     margin: 20px 0;
 }
 
-#p{
+#tip-text{
     max-width: 500px;
-  margin: auto;
-    
-}
+  margin: 0 auto;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}    
+
 
 button{
     background-color: #a52a52;
