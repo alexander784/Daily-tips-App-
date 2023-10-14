@@ -1,21 +1,17 @@
 {
     "tips": [
         {
-            "text": "Tip 1: Always stay hydrated!",
-            "backgroundImage": "https://images.unsplash.com/photo-1695338029970-16458268a24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzA3NzczNQ&ixlib=rb-4.0.3&q=80&w=1080"
+            "text": "Tip 1: Always stay hydrated!"
 
         },
         {
-            "text": "Tip 2: Get enough sleep for a healthy lifestyle.",
-            "backgroundImage": "https://imgs.search.brave.com/_6WZGTopSfypq1YD2rOBPa7IYpOb0j2UIrbE_6uShT8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/NjM2OTQ5ODMwMTEt/NmY0ZDkwMzU4MDgz/P2l4bGliPXJiLTQu/MC4zJml4aWQ9TTN3/eE1qQTNmREI4TUh4/elpXRnlZMmg4TVRS/OGZHMWxjbU5sWkdW/emZHVnVmREI4ZkRC/OGZId3cmdz0xMDAw/JnE9ODA.jpeg"
+            "text": "Tip 2: Get enough sleep for a healthy lifestyle."
         },
         {
-            "text": "Tip 3: Take breaks to reduce stress.",
-            "backgroundImage": "https://imgs.search.brave.com/_6WZGTopSfypq1YD2rOBPa7IYpOb0j2UIrbE_6uShT8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/NjM2OTQ5ODMwMTEt/NmY0ZDkwMzU4MDgz/P2l4bGliPXJiLTQu/MC4zJml4aWQ9TTN3/eE1qQTNmREI4TUh4/elpXRnlZMmg4TVRS/OGZHMWxjbU5sWkdW/emZHVnVmREI4ZkRC/OGZId3cmdz0xMDAw/JnE9ODA.jpeg"
+            "text": "Tip 3: Take breaks to reduce stress."
         },
         {
-            "text":"Tip 4: Compare yourself to who you were yesterday not to someone else is today",
-            "backgroundImage":"https://images.unsplash.com/photo-1695338029970-16458268a24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzA3NzczNQ&ixlib=rb-4.0.3&q=80&w=1080"
+            "text":"Tip 4: Compare yourself to who you were yesterday not to someone else is today"
         }
     ]
 }

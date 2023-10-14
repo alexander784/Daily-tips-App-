@@ -8,15 +8,14 @@ let currentTipIndex = 0;
 //create an empty array to store tips
 let tipsArray = [];
 //initialize an empty string for backgroundURL image
-let backgroundImageUrl = ""
 
 //function to display tips
 function displayTips() {
     tipText.innerHTML = `
-    <img src="${tipsArray[currentTipIndex].backgroundImage}"  alt="" height = 200px width = 200px> <br>
     ${tipsArray[currentTipIndex].text}
     `;
     currentTipIndex = (currentTipIndex +1)% tipsArray.length;
+  
 }
 
 //add eventLister to  next button
@@ -25,6 +24,7 @@ nextButton.addEventListener("click", () => {
       .then((response) => response.json())
       .then((data) => {
         tipsArray = data;
+        backgroundImageUrl = data;
         console.log(tipsArray);
 
         displayTips();
