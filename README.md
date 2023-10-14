@@ -19,13 +19,13 @@ This project contains the HTML, CSS and JavaScript code for Daily Tips.
  - **CSS**: Custom stylesheets to enhance the design and layout of the website.
 
 
- ##Demo
+ ## Demo
  https://alexander784.github.io/Daily-tips-App-/
 
 
  ## Installation
 
- To run this project locally:
+ To run this project locally:<br>
  1.Clone the repository using the: Git clone command. <br>
  2.Navigate to the project directory "cd Project-name"<br>
  3.Open the "Index.html" file in your favorite browser.
