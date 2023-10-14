@@ -1,5 +1,6 @@
 ## Daily Tips App
 
+An interactive app that displays quotes on the webpage 
 This project contains the HTML, CSS and JavaScript code for Daily Tips.
 
 ## Table of contents
