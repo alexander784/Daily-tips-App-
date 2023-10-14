@@ -1,3 +1,44 @@
-<h1>Daily Tips App.</h1>
-<h1>Author:</h1>
-<p>Alexander Nyaga</p>
+## Daily Tips App
+
+This project contains the HTML, CSS and JavaScript code for Daily Tips.
+
+##Table of contents
+
+- [Description] (#description)
+- [Demo](#demo)
+- [Installation](#installion)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#license)
+
+ ## Description
+
+ The project consists of the HTML,CSS and JavaScript code to display quotes on the webpage.
+ The website is built using the following technologies and resources:
+
+ - **CSS**: Custom stylesheets to enhance the design and layout of the website.
+
+
+ ##Demo
+ ****
+
+
+ ## Installation
+
+ To run this project locally:
+ 1.Clone the repository using the: Git clone command
+ 2.Navigate to the project directory "cd Project-name"
+ 3.Open the "Index.html" file in your favorite browser.
+
+ ## Usage
+ Once the project is set up and running, you can now interact with:
+ -**next-tip-button** This button enables you to navigate to the next quote in the webpage.
+
+ Feel free to customize the website according to your needs by modifying the HTML,CSS and Javacript files.
+
+ ## Contributing
+ Contributions to the project are welcome! If you find any issues or have suggestions for improvements, feel freee to submit a pull request.
+
+ ## License
+ This Project is Licensed under [MIT License](LICENSE)
+ 
