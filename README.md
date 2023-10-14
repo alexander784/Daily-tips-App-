@@ -1,0 +1,1 @@
+<h1>Daily Tips App.</h1>
