@@ -2,7 +2,7 @@
 
 This project contains the HTML, CSS and JavaScript code for Daily Tips.
 
-##Table of contents
+## Table of contents
 
 - [Description] (#description)
 - [Demo](#demo)
@@ -20,7 +20,7 @@ This project contains the HTML, CSS and JavaScript code for Daily Tips.
 
 
  ##Demo
- ****
+ https://alexander784.github.io/Daily-tips-App-/
 
 
  ## Installation
