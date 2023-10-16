@@ -27,7 +27,7 @@ body{
 
 
 button{
-    background-color: beige;
+    background-color:bisque;
     color: #000;
     border: none;
     padding: 10px 20px;
@@ -37,4 +37,16 @@ button{
 
 button:hover{
     background-color: #a52a52;
+}
+
+#foot{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #000;
+  text-align: center;
+}
+#foot:hover{
+    text-decoration: underline;
 }
